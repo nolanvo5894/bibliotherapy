@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="{{url_for('static', filename = 'style.css')}}">
+
+{% extends 'basic.html' %}
+{% block content %}
+  <h1>We recommend the following books for you</h1>
+  <div class="jumbotron">
+    <ul>
+      {% for book in recommendation_list %}
+      <li class='recommended-book'>{{book}}</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+{% endblock %}

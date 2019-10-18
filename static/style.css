@@ -1,0 +1,46 @@
+body{
+  height: 50%;
+  background: url('tea.jpg');
+
+  /* center and scale the images nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 200;
+  color: #800000;
+  text-align: center;
+}
+
+.home{
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 100;
+  color: #112063;
+  text-align: center;
+}
+
+.jumbotron{
+  background: none
+  text-align: center;
+}
+
+.form-group{
+  font-size: 120;
+}
+
+.form-control{
+  font-size: 120;
+}
+
+.btn{
+  font-size: 100;
+  text-align: center;
+}
+
+.recommended-book{
+  font-style: oblique;
+  font-size: 100;
+}

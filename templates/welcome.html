@@ -1,0 +1,20 @@
+<link rel="stylesheet" href="{{url_for('static', filename = 'style.css')}}">
+
+{% extends 'basic.html' %}
+{% block content %}
+
+<h1>Welcome to your bibliotherapy session!</h1>
+
+<div class="jumbotron">
+  <form action = "{{ url_for('recommend')}}">
+    <div class="form-group">
+      <label>Tell us about you</label>
+      <input class="form-control" placeholder="How are you feeling?" type = 'text' name = 'feeling'>
+      <small class="form-text">We'll never share your feelings with anyone else.</small>
+    </div>
+    <button type="submit" class="btn btn-primary">Reveal</button>
+  </form>
+</div>
+
+
+{% endblock %}
