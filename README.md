@@ -1,7 +1,7 @@
 # iyas.ai
 iyas.ai (from the Japanese word 'iyasu', which means healing) is a recommender system for books and stories that could help you and your loved ones lift up your mood whenever you are facing stress or unpleasant situations. Just type in how you are feeling and we will suggest a (few) books or stories that might just brighten up your day.<br>
 
-I have deployed it on Google Cloud App Engine and you can try it here: https://where-are-you-256522.appspot.com
+I have deployed it on Google Cloud App Engine and you can try it here: http://bit.ly/iyasai
 
 The datasets used to build iyas.ai come from 2 sources:
 * Goodreads: I scraped 50000 books from Goodreads' 'Best Books Ever' list with their titles, authors, and descriptions.
