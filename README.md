@@ -1,5 +1,5 @@
 # iyas.ai
-There is one secret that every book lover knows: reading is healing. Being fully immersed in a good story, or pondering a poem's verse, brings about a sense of calmness and tranquility that cannot be found any other way. *iyas.ai* (from the Japanese word *iyasu*, which means to calm) is a recommender system for books and stories that could help lift up your mood whenever you are facing stress or unpleasant situations. Just type in how you are feeling and we will suggest a few books or stories that might just brighten up your day.<br>
+There is one secret that every book lover knows: reading is healing. Being fully immersed in a good story, or pondering a poem's verse, brings about a sense of calmness and tranquility that cannot be found any other way. *iyas.ai* (from the Japanese word *iyasu*, which means to calm) is a recommender system for books and stories that aim to lift up your mood whenever you are facing stress or unpleasant situations. Just type in how you are feeling and we will suggest a few books or stories that might just brighten up your day.<br>
 
 A demo for *iyas.ai* could be found [here](https://youtu.be/BvykzH0eX0A). Please take a look and let me know what you think :D
 
